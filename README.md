@@ -6,7 +6,7 @@ My interests cover Reinforcement learning, Multi-Armed Bandits, Machine Learning
 Outside of research, I like photography (you can follow me on Instagram), running, going to the gym, and learning music. I recently started learning mixing. My preferred Digital Audio Workstation (DAW) is Presonus Studio One.
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=khalednakhleh&count_private=true&theme=tokyonight&showicons=true)]()[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khalednakhleh&hide=html&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=khalednakhleh&count_private=true&theme=tokyonight&showicons=true)]()[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khalednakhleh&hide=html,jupyternotebook&langs_count=5&theme=tokyonight)]()
 
 <!--
 **khalednakhleh/khalednakhleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
