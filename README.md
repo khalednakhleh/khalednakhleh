@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a third year PhD electrical engineering student at Texas A&M University. I am advised by Prof. I-Hong Hou. I am also an AI research lab intern at Nokia Bell Labs for Summer 2022, as well as the receipent of Texas A&M’s ECEN department PhD merit fellowship.
+I am a third year PhD electrical engineering student at Texas A&M University. I am also an AI research lab intern at Nokia Bell Labs for Summer 2022, as well as the receipent of Texas A&M’s ECEN department PhD merit fellowship.
 
 My interests cover Reinforcement learning, Multi-Armed Bandits, Machine Learning, and Learning Theory.
 
