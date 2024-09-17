@@ -1,9 +1,9 @@
 ### Hi there 👋
 I am a final year PhD electrical engineering student at Texas A&M University. I was also an AI research lab intern at Nokia Bell Labs for Summer 2022, as well as the receipent of Texas A&M’s ECEN department PhD merit fellowship.
 
-My interests cover Reinforcement learning, Multi-Armed Bandits, Machine Learning, and Learning Theory.
+My interests cover Multi-Agent Reinforcement Learning (MARL), Algorithmic game theory, and applications of both on autonomous systems (e.g. robots and UAVs).
 
-Outside of research, I like photography (you can follow me on Instagram), running, going to the gym, and learning music. I recently started learning mixing. My preferred Digital Audio Workstation (DAW) is Presonus Studio One.
+Outside of research, I like photography, running, going to the gym, and learning music.
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=khalednakhleh&count_private=true&theme=tokyonight&showicons=true)]()[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khalednakhleh&hide=html,jupyter%20notebook&langs_count=5&theme=tokyonight)]()
