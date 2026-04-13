@@ -1,9 +1,10 @@
-### Hi there 👋
-I am a final year PhD electrical engineering student at Texas A&M University. I was also an AI research lab intern at Nokia Bell Labs for Summer 2022, as well as the receipent of Texas A&M’s ECEN department PhD merit fellowship.
+### Hello there 👋! 
 
-My interests cover Multi-Agent Reinforcement Learning (MARL), Algorithmic game theory, and applications of both on autonomous systems (e.g. robots and UAVs).
+I am an applied scientist at Amazon in Seattle, WA. I work on deploying and evaluating large-scale LLM systems across all of Amazon’s services.
 
-Outside of research, I like photography, running, going to the gym, and learning music.
+I graduated with a PhD in electrical engineering from Texas A&M university. I was jointly advised by Prof. Ceyhun Eksin and Prof. Sabit Ekin. I was also an AI research lab intern at Nokia Bell Labs for Summer 2022, as well as the recipient of Texas A&M’s ECEN department PhD merit fellowship.
+
+My research interests cover multi-agent reinforcement learning (MARL), algorithmic game theory, and LLM fine-tuning methods.
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=khalednakhleh&count_private=true&theme=tokyonight&showicons=true)]()[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=khalednakhleh&hide=html,jupyter%20notebook&langs_count=5&theme=tokyonight)]()
