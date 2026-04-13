@@ -8,8 +8,7 @@ My research interests cover multi-agent reinforcement learning (MARL), algorithm
 Outside of research, I like photography, running, going to the gym, and learning music.
 
 
-[![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khalednakhleh&show_icons=true&theme=tokyonight&count_private=true)]()
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=khalednakhleh&layout=compact&theme=tokyonight)]()
+[![GitHub Streak](https://streak-stats.demolab.com?user=khalednakhleh&theme=tokyonight)]()
 
 <!--
 **khalednakhleh/khalednakhleh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
